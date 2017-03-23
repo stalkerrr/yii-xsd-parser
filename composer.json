@@ -1,0 +1,21 @@
+{
+    "name": "stalkerrr/yii2-xsd-parser",
+    "description": "Extension for parsing xsd files into Yii2 model",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","xsd","parser"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Khachatryan",
+            "email": "zaharyano@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "stalkerrr\\xsdparser\\": ""
+        }
+    }
+}
